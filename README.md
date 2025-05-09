@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm CraftStick
 
-<!--
-**CraftStick/CraftStick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm learning C++ and backend development.  
+🧠 I study in the Yandex Lyceum and Moscow Programming School.  
+💼 My dream is to work at Yandex as a backend developer.
 
-Here are some ideas to get you started:
+## 🚀 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💣 [Minesweeper (C++)](https://github.com/CraftStick/Minesweeper-cpp)
+- 🚢 [Sea Battle (C++)](https://github.com/CraftStick/sea-battle-cpp)
+
+## 🛠 Tech Stack
+
+- C++
+- Go (Yandex Lyceum)
+- Git, GitHub
+- Linux / MacOS Terminal
+
+## 🌱 Currently learning
+
+- Algorithms
+- Backend architecture
+- Go for server-side development
+
+## 📫 Contact
+
+If you're from Yandex and reading this — welcome! 🙌  
+Let's build something cool.
