@@ -8,6 +8,7 @@
 
 - 💣 [Minesweeper (C++)](https://github.com/CraftStick/Minesweeper-cpp)
 - 🚢 [Sea Battle (C++)](https://github.com/CraftStick/sea-battle-cpp)
+- 🔢 [Guess the Number (Go)](https://github.com/CraftStick/GuessNumber-Go)
 
 ## 🛠 Tech Stack
 
