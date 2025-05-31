@@ -28,3 +28,6 @@
 
 If you're from Yandex and reading this — welcome! 🙌  
 Let's build something cool.
+### #30NitesOfCode: [Check out my progress](https://www.codedex.io/profile/ValekaGo)
+
+<img src="https://www.codedex.io/images/code-nights/baby-neutral-dragon.gif" width="150" />
