@@ -4,6 +4,7 @@
 🧠 I study in the Yandex Lyceum and Moscow Programming School.  
 <img src="https://www.codedex.io/images/character_gifs/ea3ChSv.gif" width="100" style="vertical-align: middle;" />
 <img src="https://www.codedex.io/images/coin-cropped.png" width="80" style="vertical-align: middle; margin-right: 10px;" />
+
 💼 My dream is to work at Yandex as a backend developer.  
 🎓 Learning to code with [Codédex](https://www.codedex.io) — exploring C++ and Python through interactive quests!
 ## 🚀 My Projects
