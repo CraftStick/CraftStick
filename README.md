@@ -1,12 +1,12 @@
 # 👋 Hi, I'm CraftStick
 
-🎓 I'm learning C++ and backend development.  
+👨‍💻 I'm learning C++ and backend development.  
 🧠 I study in the Yandex Lyceum and Moscow Programming School.  
-💼 My dream is to work at Yandex as a backend developer.
-<img src="https://www.codedex.io/images/character_gifs/ea3ChSv.gif" width="150" />
 
+<img src="https://your-codédex-image-url.png" width="150" align="right" />
 
-🎓 Learning to code with [Codédex](https://www.codedex.io/) — exploring C++ and Python through interactive quests!
+💼 My dream is to work at Yandex as a backend developer.  
+🎓 Learning to code with [Codédex](https://www.codedex.io) — exploring C++ and Python through interactive quests!
 ## 🚀 My Projects
 
 - 💣 [Minesweeper (C++)](https://github.com/CraftStick/Minesweeper-cpp)
