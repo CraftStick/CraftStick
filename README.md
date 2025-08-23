@@ -1,7 +1,7 @@
 # 👋 Hi, I'm CraftStick
 
 👨‍💻 I'm learning C++ and backend development.  
-🧠 I study in the Yandex Lyceum and Moscow Programming School(Yandex Group).  
+🧠 I study in the Yandex Lyceum and Moscow Programming School (HSE University Group).  
 <img src="https://www.codedex.io/images/character_gifs/ea3ChSv.gif" width="100" style="vertical-align: middle;" />
 
 💼 My dream is to work at Yandex as a backend developer.  
