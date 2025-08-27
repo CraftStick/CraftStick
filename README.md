@@ -1,4 +1,4 @@
-# 👋 Hi, I'm CraftStick
+# 👋 Hi, I'm Valera
 
 👨‍💻 I'm learning C++ and backend development.  
 🧠 I study in the Yandex Lyceum and Moscow Programming School (HSE University Group).  
@@ -23,6 +23,3 @@
 
 If you're from Yandex and reading this — welcome! 🙌  
 Let's build something cool.
-### #30NitesOfCode: [Check out my progress](https://www.codedex.io/profile/ValekaGo)
-
-<img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" width="150" />
