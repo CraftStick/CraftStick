@@ -26,5 +26,4 @@ If you're from Yandex and reading this — welcome! 🙌
 Let's build something cool.
 
 
-
-<img src="https://avatars.mds.yandex.net/get-lpc/10116223/83d2478e-95b5-48e5-9d80-c61397b62b54/orig?width=364&height=286" width="300"/>
+<img src="https://avatars.mds.yandex.net/get-lpc/10116223/899a1b69-d6e5-4f8b-9c34-8d905b8c5295/orig" width="250" />
