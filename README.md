@@ -24,3 +24,7 @@
 
 If you're from Yandex and reading this — welcome! 🙌  
 Let's build something cool.
+
+
+
+<img src="https://avatars.mds.yandex.net/get-lpc/10116223/83d2478e-95b5-48e5-9d80-c61397b62b54/orig?width=364&height=286" width="300"/>
