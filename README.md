@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Valera
 
+<img src="https://github.com/user-attachments/assets/88d440b1-0280-446a-b966-d5e2a082d5e7" alt="GitHub Banner" width="100%" />
+
+
 👨‍💻 I'm learning C++ and backend development.  
 🧠 I study in the Yandex Lyceum and Moscow Programming School (HSE University Group).  
 <img src="https://www.codedex.io/images/character_gifs/ea3ChSv.gif" width="100" style="vertical-align: middle;" />
