@@ -16,6 +16,7 @@
 - Go (Yandex Lyceum)
 - Git, GitHub
 - Linux / MacOS Terminal
+- I worked with a database using PHP and Django
 
 ## 🌱 Currently learning
 
