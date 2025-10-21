@@ -6,15 +6,14 @@
 
 💼 My dream is to work at Yandex as a backend developer.  
 🎓 Learning to code with [Codédex](https://www.codedex.io) — exploring C++, Python, HTML, JavaScrip through interactive quests!
-## 🛠 Tech Stack
-
-- Python (to learn)
-- C++
-- Go (to learn)
-- Git, GitHub
-- MacOS Terminal
-- I worked with a database using PHP, Django, JavaScript
-
+## 🛠️ Tech Stack
+- C++ (main focus)
+- Go (learning)
+- Python (learning basics)
+- Git & GitHub
+- macOS Terminal, CLI tools
+- Basic experience with PHP, Django, JavaScript, Databases
+  
 ## 🌱 Currently learning
 
 - Algorithms
