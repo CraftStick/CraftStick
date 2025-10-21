@@ -19,6 +19,13 @@
 - Algorithms
 - Backend architecture
 - Go for server-side development
+
+## 🌍 Languages  
+- 🇷🇺 Russian — native  
+- 🇬🇧 English — intermediate (B1–B2)  
+- 🇩🇪 German — A2  
+- 🇸🇪 Swedish — beginner (A1), learning
+  
 ## 📫 Contact!
 
 
