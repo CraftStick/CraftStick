@@ -33,7 +33,5 @@ If you're from Yandex and reading this — welcome! 🙌
 Let's build something cool. You can contact us via direct.
 
   <img width="120" height="120" alt="heart" src="https://github.com/user-attachments/assets/481348bc-5324-431f-b60f-f8f1fc18c44b" style="vertical-align: middle; margin: 0 5px;"/>
-  <img width="120" height="120" alt="server" src="https://github.com/user-attachments/assets/35afba0f-8215-4513-afe6-ac14f54376da" style="vertical-align: middle; margin: 0 5px;"/>
   <img width="120" height="120" alt="chat" src="https://github.com/user-attachments/assets/cc680a6a-33a7-4ef9-b982-3d50bbba0fb8" style="vertical-align: middle; margin: 0 5px;"/>
-  <img width="120" height="120" alt="mail" src="https://github.com/user-attachments/assets/fcb190bf-0e86-42fc-9165-b6ff40c468d4" style="vertical-align: middle; margin: 0 5px;"/>
-  <img width="121" height="120" alt="orig (3) 2" src="https://github.com/user-attachments/assets/00200766-4d75-4850-9007-5a7c177658b3" style="vertical-align: middle; margin: 0 5px;"/>
+ 
