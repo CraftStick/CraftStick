@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Valera
 
 👨‍💻 I'm learning C++ and backend development.  
-🧠 I study in the Yandex Lyceum and Moscow Programming School (HSE University Group).  
+🧠 I study in the Yandex Lyceum, Moscow Programming School (HSE University Group) and MGEKIT(Moscow State College of Electronics and Computer Science).  
 <img src="https://www.codedex.io/images/character_gifs/ea3ChSv.gif" width="100" style="vertical-align: middle;" />
 
 💼 My dream is to work at Yandex as a backend developer.  
