@@ -5,7 +5,7 @@
 <img src="https://www.codedex.io/images/character_gifs/ea3ChSv.gif" width="100" style="vertical-align: middle;" />
 
 💼 My dream is to work at Yandex as a backend developer.  
-🎓 Learning to code with [Codédex](https://www.codedex.io) — exploring C++ and Python through interactive quests!
+🎓 Learning to code with [Codédex](https://www.codedex.io) — exploring C++, Python, HTML, JavaScrip through interactive quests!
 ## 🛠 Tech Stack
 
 - Python (to learn)
