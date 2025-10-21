@@ -24,7 +24,7 @@
 
 
 If you're from Yandex and reading this — welcome! 🙌  
-Let's build something cool.
+Let's build something cool. You can contact us via direct.
 
   <img width="120" height="120" alt="heart" src="https://github.com/user-attachments/assets/481348bc-5324-431f-b60f-f8f1fc18c44b" style="vertical-align: middle; margin: 0 5px;"/>
   <img width="120" height="120" alt="server" src="https://github.com/user-attachments/assets/35afba0f-8215-4513-afe6-ac14f54376da" style="vertical-align: middle; margin: 0 5px;"/>
