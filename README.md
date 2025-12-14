@@ -24,7 +24,7 @@
 - 🇷🇺 Russian — native  
 - 🇬🇧 English — intermediate (B1–B2)  
 - 🇩🇪 German — A2  
-- 🇸🇪 Swedish — beginner (A2), learning
+- 🇸🇪 Swedish — beginner (A1), learning
   
 ## 📫 Contact!
 
