@@ -12,7 +12,7 @@
 - Go (learning)
 - SQL (PostgreSQL, SQLite)
 - Basic experience with PHP, Databases
-- Tools: Git & GitHub, macOS Terminal, CLI tools, Cursor AI.
+- Tools: Git & GitHub, macOS Terminal, CLI tools, VSCode, Cursor AI.
   
 ## 🌱 Currently learning
 - Algorithms
