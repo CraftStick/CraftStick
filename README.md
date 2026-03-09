@@ -25,8 +25,3 @@
 - 🇬🇧 English — A2  
 - 🇩🇪 German — A2  
 - 🇳🇴 Norway — A2, learning
-  
-## 📫 Contact!
-If you're from Yandex and reading this — welcome! 🙌  
-Let's build something cool. You can contact us via [Direct](https://www.instagram.com/valler.dev).
- 
