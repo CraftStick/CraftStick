@@ -23,5 +23,4 @@
 ## 🌍 Languages  
 - 🇷🇺 Russian — native  
 - 🇬🇧 English — A2  
-- 🇩🇪 German — A2  
-- 🇳🇴 Norway — A2, learning
+- 🇩🇪 German — A2
