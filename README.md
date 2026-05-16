@@ -23,3 +23,7 @@
 - 🇷🇺 Russian — native  
 - 🇬🇧 English — A2  
 - 🇩🇪 German — A2
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/overview?username=CraftStick&theme=default&hide_border=true" alt="Activity Overview" width="800" />
+</p>
