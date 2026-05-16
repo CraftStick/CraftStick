@@ -25,5 +25,5 @@
 - 🇩🇪 German — A2
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/overview?username=CraftStick&theme=github_light" alt="GitHub Activity Overview" />
+  <img src="https://raw.githubusercontent.com/yhype-sub/yhype-sub/output/profile-3d-contrib/profile-green-animate.svg" alt="GitHub Activity Overview" />
 </p>
