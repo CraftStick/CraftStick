@@ -23,3 +23,7 @@
 - 🇷🇺 Russian — native  
 - 🇬🇧 English — A2  
 - 🇩🇪 German — A2
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/overview?username=CraftStick&theme=github_light" alt="GitHub Activity Overview" />
+</p>
