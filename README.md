@@ -4,8 +4,7 @@
 🧠 Student at **IT.Moscow**, **Yandex Lyceum**, and **Moscow Programming School (HSE)**.
 <img src="https://www.codedex.io/images/character_gifs/ea3ChSv.gif" width="100" align="right" hspace="30" />
 
-💼 My dream is to work at Yandex as a backend developer.  
-🎓 Learning to code with [Codédex](https://www.codedex.io) — exploring C++, Python, HTML, JavaScript through interactive quests!
+💼 My dream is to work at Yandex as a backend developer.
 
 ## 🛠️ Tech Stack
 - C++ (main focus)
