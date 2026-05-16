@@ -23,7 +23,3 @@
 - 🇷🇺 Russian — native  
 - 🇬🇧 English — A2  
 - 🇩🇪 German — A2
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yhype-sub/yhype-sub/output/profile-3d-contrib/profile-green-animate.svg" alt="GitHub Activity Overview" />
-</p>
