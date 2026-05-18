@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Valera
 
-👨‍💻 **I'm backend developer**.  
+👨‍💻 **I'm a backend developer**.  
 🧠 Student at **IT.Moscow**, **Yandex Lyceum**, and **Moscow Programming School (HSE)**.
 <img src="https://www.codedex.io/images/character_gifs/ea3ChSv.gif" width="100" align="right" hspace="30" />
 
