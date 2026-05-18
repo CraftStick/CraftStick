@@ -21,6 +21,6 @@
 
 ## 🌍 Languages  
 - 🇷🇺 Russian — native  
-- 🇵🇱 Polish — Basic understanding
+- 🇺🇦 Ukrainian — Basic understanding
 - 🇬🇧 English — A2  
 - 🇩🇪 German — A2
