@@ -14,7 +14,7 @@
 - Basic experience with PHP, Databases
 - Tools: Git & GitHub, macOS Terminal, CLI tools, VSCode, Cursor AI, Claude Code.
 
-  ## 🚀 Featured Projects
+## 🚀 Featured Projects
 - **🛡️ [TREE SHIELD](https://t.me/treeshieldvpn_bot)**: A custom VPN solution focused on secure traffic routing and infrastructure protection. Built with Go.
 
 ## 🌱 Currently learning
