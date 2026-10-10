@@ -7,7 +7,7 @@
 💼 My dream is to work at Yandex Go as a backend developer.
 
 ## 🛠️ Tech Stack
-- **Languages:** C++ (main focus), Go (learning), Python (learning), SQL
+- **Languages:** Go (main, backend services), Python (bots & automation), C++ (competitive programming), SQL
 - **Backend:** net/http, FastAPI, JWT, REST, Telegram Bot API, PostgreSQL, SQLite
 - **Networking:** VPN, TCP/IP, DNS, TLS
 - **Tools:** Linux, Bash, systemd, Git, GitHub, Docker, Nginx, HAProxy, Let's Encrypt, VS Code, Cursor, Claude Code
