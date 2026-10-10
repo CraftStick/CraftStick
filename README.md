@@ -18,7 +18,6 @@
 ## 🌱 Currently learning
 - Algorithms
 - Backend architecture
-- Go for server-side development
 
 ## 🌍 Languages  
 - 🇷🇺 Russian — native  
