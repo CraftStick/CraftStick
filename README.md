@@ -7,11 +7,10 @@
 💼 My dream is to work at Yandex Go as a backend developer.
 
 ## 🛠️ Tech Stack
-- C++ (main focus)
-- Go (learning)
-- Python (learning)
-- SQL (PostgreSQL, SQLite)
-- Tools: Git & GitHub, macOS Terminal, CLI tools, VSCode, Cursor AI, Claude Code.
+- **Languages:** C++ (main focus), Go (learning), Python (learning), SQL
+- **Backend:** net/http, FastAPI, JWT, REST, Telegram Bot API, PostgreSQL, SQLite
+- **Networking:** VPN, TCP/IP, DNS, TLS
+- **Tools:** Linux, Bash, systemd, Git, GitHub, Docker, Nginx, HAProxy, Let's Encrypt, VS Code, Cursor, Claude Code
 
 ## 🚀 Featured Projects
 - **🛡️ [TREE SHIELD](https://t.me/treeshieldvpn_bot)**: A custom VPN solution focused on secure traffic routing and infrastructure protection. Built with Go.
