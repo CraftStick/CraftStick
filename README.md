@@ -4,7 +4,7 @@
 🧠 Student at **IT.Moscow**, **Yandex Lyceum**, and **Moscow Programming School (HSE)**.
 <img src="https://www.codedex.io/images/character_gifs/ea3ChSv.gif" width="100" align="right" hspace="30" />
 
-💼 My dream is to work at Yandex Go as a backend developer.
+💼 My dream is to work as a backend developer at either Yandex Go or Raiffeisen Bank.
 
 ## 🛠️ Tech Stack
 - **Languages:** Go (main, backend services), Python (bots & automation), C++ (competitive programming), SQL
